@@ -1,4 +1,9 @@
-
+/********************************************************
+Auther      :-  velidi pradeep kumar 
+date        :-  28/8/2021 
+orgnisation :-  IIITDM KANCHIPURAM
+description :- This code is responcable for converting BCD to sevensegment display with 4 displays
+**********************************************************/
 
 module display(output reg [7:0] dig,
                output wire [3:0] sel,
